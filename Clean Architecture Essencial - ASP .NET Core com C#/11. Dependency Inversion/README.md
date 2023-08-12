@@ -10,7 +10,7 @@ Módulos de **alto nível** são classes da **camada de negócio** que encapsula
 
 Módulos de **baixo nível** são classes da **camada de infraestrutura** que implementam operações básicas, como acesso a dados, ao disco, protocolos de rede, etc.
 
-As **abstrações** seriam **interfaces** ou **classes** abstratas que não possuem implementação.
+As **abstrações** seriam **interfaces** ou **classes abstratas** que não possuem implementação.
 
 Assim, as **classes da camada de negócio não devem depender das classes da camada de infraestrutura**, mas **ambas devem depender de interfaces ou classes abstratas**.
 
