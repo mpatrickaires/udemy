@@ -1,6 +1,8 @@
 ﻿namespace ModeloAnemico;
 
-public class ClienteRico
+// Tornando a classe sealed, garantimos o seu encapsulamento ao prevenir que outras classes façam herança a partir dela, de forma
+// que a expansão de seus atributos e comportamentos tenham de ser feitos dentro da própria classe
+public sealed class ClienteRico
 {
     // Os setters são tornados private para que o estado da classe não possa ser alterado externamente
     public int Id { get; private set; }
