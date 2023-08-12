@@ -26,9 +26,9 @@ Quanto **maior o acoplamento** entre os componentes do sistema **maior será a d
 
 ### Coesão
 
-***
-
 Coesão é o nível de **integridade interna** dos componentes do sistema.
 Quanto **maior a coesão** entre os componentes **mais definidas são suas responsabilidades** sendo **mais difícil desmembrar** o componente em outros componentes.
+
+***
 
 Portanto, quanto **menor o acoplamento e mais alta a coesão** de um componente ou módulo do sistema, **mais fácil** será de **manter**, **reusar** e **estender**.
