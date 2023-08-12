@@ -15,6 +15,7 @@ Exemplos de aplicação do conceito:
 A aplicação da separação dos conceitos/responsabilidade envolve **dois processos**:
 
 1 - Reduzir o **acomplamento**.
+
 2 - Aumentar a **coesão**.
 
 ***
