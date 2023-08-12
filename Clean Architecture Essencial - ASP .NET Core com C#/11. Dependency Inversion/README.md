@@ -16,7 +16,7 @@ Assim, as **classes da camada de negócio não devem depender das classes da cam
 
 > Não confundir o princípio da **inversão da dependência** com o padrão de projeto da **injeção da dependência**.
 
-Em uma arquitetura em camadas, um componente de alto nível não deve depender de um componente de baixo nível. Devemos criar uma abstração e fazer os dois componentes depender desta abstração.
+Em uma arquitetura em camadas, **um componente de alto nível não deve depender de um componente de baixo nível**. Devemos criar uma abstração e fazer os **dois componentes depender desta abstração**.
 
 ## Resumo
 
@@ -34,4 +34,4 @@ Padrão de projeto usado para **implementar a inversão da dependência**. Permi
 
 ### Container IoC (Container de Injeção de Dependência)
 
-É um framework que permite fazer a injeção de dependência de forma automática nos componentes.
+É um **framework** que permite fazer a **injeção de dependência de forma automática** nos componentes.
