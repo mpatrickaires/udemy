@@ -69,8 +69,8 @@ public interface ICustomerRepository
 {
 	void Add();
 	void Remove();
-	IEnumerable<T> Get();
-	T GetId(int id);
+	IEnumerable<Customer> Get();
+	Customer GetId(int id);
 }
 ```
 
